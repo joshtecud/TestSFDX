@@ -3,7 +3,7 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Asset.Campo_test__c</field>
+        <field>Asset.Campo_texto_2__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>

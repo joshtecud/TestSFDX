@@ -44,6 +44,10 @@
                 <behavior>Edit</behavior>
                 <field>Campo_test__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Campo_texto_2__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
