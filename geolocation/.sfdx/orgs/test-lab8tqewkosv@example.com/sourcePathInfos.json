@@ -140,40 +140,40 @@
     [
         "C:\\Workspace\\ProyectoDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Workspace\\ProyectoDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5024,
             "modifiedTime": 1548356615992,
             "changeTime": 1548356615992,
-            "contentHash": "6d0c71f4b05bc622e623fa4eeeff31015d2cf46e"
+            "contentHash": "6d0c71f4b05bc622e623fa4eeeff31015d2cf46e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Workspace\\ProyectoDX\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Workspace\\ProyectoDX\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 18208,
             "modifiedTime": 1548356616031,
             "changeTime": 1548356616031,
-            "contentHash": "0e573fbad6fc0b60370ab8c977fb26f6c56c9c05"
+            "contentHash": "0e573fbad6fc0b60370ab8c977fb26f6c56c9c05",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Workspace\\ProyectoDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Workspace\\ProyectoDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4684,
             "modifiedTime": 1548356616044,
             "changeTime": 1548356616044,
-            "contentHash": "524b5f1ba31ca15523f8823180e1e1696727fae4"
+            "contentHash": "524b5f1ba31ca15523f8823180e1e1696727fae4",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -183,10 +183,10 @@
             "sourcePath": "C:\\Workspace\\ProyectoDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 4688,
-            "modifiedTime": 1548356616060,
-            "changeTime": 1548356616060,
-            "contentHash": "68c2727767a8670980242a919264d14c50aaa631"
+            "size": 4527,
+            "modifiedTime": 1548357156299,
+            "changeTime": 1548357156299,
+            "contentHash": "6ed9f068f978fb897312b8bc74930e4ccef87cc4"
         }
     ],
     [
@@ -296,27 +296,27 @@
     [
         "C:\\Workspace\\ProyectoDX\\geolocation\\force-app\\main\\default\\layouts\\Asset-Asset Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Workspace\\ProyectoDX\\geolocation\\force-app\\main\\default\\layouts\\Asset-Asset Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5728,
             "modifiedTime": 1548356615980,
             "changeTime": 1548356615980,
-            "contentHash": "e4cecbd7c2958934663dc0cdc1252cd5f2e2ecae"
+            "contentHash": "e4cecbd7c2958934663dc0cdc1252cd5f2e2ecae",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Workspace\\ProyectoDX\\geolocation\\force-app\\main\\default\\objects\\Asset\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Workspace\\ProyectoDX\\geolocation\\force-app\\main\\default\\objects\\Asset\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1548356615969,
             "changeTime": 1548356615969,
-            "contentHash": "60b29c4b51f261130d645b17cc3a1961ec13e993"
+            "contentHash": "60b29c4b51f261130d645b17cc3a1961ec13e993",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -335,14 +335,14 @@
     [
         "C:\\Workspace\\ProyectoDX\\geolocation\\force-app\\main\\default\\objects\\Asset\\fields\\Campo_texto_2__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Workspace\\ProyectoDX\\geolocation\\force-app\\main\\default\\objects\\Asset\\fields\\Campo_texto_2__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 370,
             "modifiedTime": 1548356615969,
             "changeTime": 1548356615969,
-            "contentHash": "f740d97d327fa0df1ab623d4a9305075e26a91d8"
+            "contentHash": "f740d97d327fa0df1ab623d4a9305075e26a91d8",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
